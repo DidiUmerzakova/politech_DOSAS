@@ -1,0 +1,5 @@
+﻿  Creating untrusted proxy/bridge routines
+  Lab3.cpp
+C:\Users\USER\Desktop\politech\avtomat_explot\lab3\Lab3\Lab3.cpp(62,46): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Lab3_enclave_u.c
+  Lab3.vcxproj -> C:\Users\USER\Desktop\politech\avtomat_explot\lab3\Lab3\x64\Simulation\Lab3.exe
